@@ -1,0 +1,12 @@
+@import '~antd/dist/antd.css';
+.header{
+    background-color:floralwhite;
+    padding-top: 8px;
+}
+.dropDown{
+    display:block;
+    float:none;
+}
+.content{
+    padding-top:6px;
+}
